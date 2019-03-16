@@ -1,0 +1,79 @@
+---
+title: 2019 Schedule
+layout: default
+---
+
+    <section class="page-section cta">
+      <div class="container">
+        <div class="row">
+          <div class="col-xl-9 mx-auto">
+            <div class="cta-inner text-center rounded">
+              <h2 class="section-heading mb-5">
+                <span class="section-heading-upper">Come On Out</span>
+                <span class="section-heading-lower">We're Playing</span>
+              </h2>
+              <div class="table-responsive" style="position: relative">
+                <table class="table">
+                  <thead>
+                    <tr>
+                      <th scope="col">Date</th>
+                      <th scope="col">Event</th>
+                      <th scope="col">Group</th>
+                      <th scope="col">Stage Time</th>
+                      <th scope="col">Location</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {% for event in site.data.2019_schedule %}
+                      <tr>
+                        <th scope="row">{{event.Date}}</th>
+                        <td>{{event.Event}}</td>
+                        <td>{{event.Group}}</td>
+                        <td>{{event.stagetime}}</td>
+                        <td>{{event.Location}}</td>
+                      </tr>
+                    {% endfor %}
+                  </tbody>
+                </table>
+              </div>
+              <p class="address mb-5">
+                <em>
+                  <strong>Historic Red Bridge crossing Bull Creek southeast of</strong>
+                  <br>
+                  Ozark, Missouri
+                </em>
+              </p>
+              <p class="mb-0">
+                <small>
+                  <em>Book Us Anytime</em>
+                </small>
+                <br>
+                <a href="mailto:{{site.booking}}">{{site.booking}}</a>
+                <br>
+                <a href="tel:{{site.phone}}">{{site.phone}}</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="page-section about-heading">
+      <div class="container">
+        <img class="img-fluid rounded about-heading-img mb-3 mb-lg-0" src="img/bridge.jpg" alt="">
+        <div class="about-heading-content">
+          <div class="row">
+            <div class="col-xl-9 col-lg-10 mx-auto">
+              <div class="bg-faded rounded p-5">
+                <h2 class="section-heading mb-4">
+                  <span class="section-heading-upper">Ozark Highland Church</span>
+                  <span class="section-heading-lower">Bluegrass Church</span>
+                </h2>
+                <p>Plus don't forget about Bluegrass Church "most"every Sunday evening at 6:00pm at the Ozark Highland Church on east Hwy 14 in Ozark, Mo.  "Ya'll come back now, ya hear?" featuring the Pickin' Pastor from the Pulpit!"  AND you even get to sing along with us, bluegrass style!</p>
+                <p class="mb-0">We hope to see you soon!.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
