@@ -2,4 +2,7 @@
 title: Red Bridge Bluegrass
 booking: bookings@creeksarisin.com
 phone: 417-840-2548
+url: "http://redbridgebluegrass.com" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
 ---
