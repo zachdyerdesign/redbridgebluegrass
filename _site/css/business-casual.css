@@ -255,3 +255,18 @@ p {
 .font-weight-light {
   font-weight: 100 !important;
 }
+
+@media (max-width: 768px) {
+  .ml-auto {
+    margin: none;
+  }
+  .p-5 {
+    width: 100%;
+  }
+  .bg-faded {
+    margin-bottom: 15px;
+  }
+  .section-heading .section-heading-lower {
+    font-size: 2rem;
+  }
+}
