@@ -1,4 +1,4 @@
-Date,Event,Group,stagetime,Location
+Date,Event,Group,Stage Time,Location
 01/25/2019,Alice Irene's Restaurant,Red Bridge Trio,5:30-7:30 AM,"Marionville, MO"
 01/26/2019,Christian Healthcare South,The Mayfields,3:30-5:00 PM,"Lebanon, MO"
 02/23/2019,Alice Irene's Restaurant,Red Bridge,5:30-7:30 AM,"Marionville, MO"
@@ -7,8 +7,8 @@ Date,Event,Group,stagetime,Location
 04/11/2019,Thursday Night Music (at Douglas County Veterans Assoc),Red Bridge,7:00-9:00 PM,"Ava, MO"
 04/20/2019,Webb City Farmer's Market (Season Opening),The Mayfields,9:00-11:00 AM,"Webb City, MO"
 04/27/2019,Christian Healthcare South,The Mayfields,3:30-5:00 PM,"Lebanon, MO"
-05/05/2019,Baker Creek Seed- Spring Planting Festival,The Mayfields,TBD,"Mansfield, MO"
-05/06/2019,Baker Creek Seed- Spring Planting Festival,The Mayfields,TBD,"Mansfield, MO"
+05/05/2019,Baker Creek Seed- Spring Plating Festival,The Mayfields,TBD,"Mansfield, MO"
+05/06/2019,Baker Creek Seed- Spring Plating Festival,The Mayfields,TBD,"Mansfield, MO"
 05/11/2019,Disabled American Veterans (Chapeter 62) Benefit,The Mayfields,12:45 PM,"Buffalo, MO"
 05/18/2019,Fair Grove Library- Summer Reading Kickoff,Red Bridge,1:00-3:00 PM,"Fair Grove, MO"
 05/19/2019,St. Joseph Church Summerfest,Red Bridge,12:30-3:00 PM,"Billings, MO"
@@ -22,4 +22,8 @@ Date,Event,Group,stagetime,Location
 07/27/2019,Christian Healthcare South,The Mayfields,3:30-5:00 PM,"Lebanon, MO"
 09/07/2019,The Historic Star Theater,Red Bridge,7:00-9:00 PM,"Willow Springs, MO"
 09/28/2019,Carl Junction Bluegrass Festival,Red Bridge,12:30-1:30 PM,"Carl Junction, MO"
+10/5/2019,Blackshire Distillery at Hermann Farm,The Mayfields,1:00-4:00 PM,"Hermann, MO"
+10/12/2019,Blackshire Distillery at Hermann Farm,The Mayfields,1:00-4:00 PM,"Hermann, MO"
 10/26/2019,Christian Healthcare South,The Mayfields,3:30-5:00 PM,"Lebanon, MO"
+11/2/2019,Red Moose Vinyard,The Mayfields,2:00 - 5:00 PM,"Salem, MO"
+11/30/2019,Red Moose Vinyard (Christmas Cheer),The Mayfields,2:00 - 5:00 PM,"Salem, MO"AA
